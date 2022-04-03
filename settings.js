@@ -1,6 +1,6 @@
 /*
    * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
+   * Contact Me on wa.me/62882007331744
    * Follow https://github.com/DikaArdnt
 */
 
@@ -18,24 +18,24 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281575886399','6281575886399','6281575886399']
-global.premium = ['6281575886399']
-global.ownername = 'RiychDwayne'
-global.botname = 'Chika-Md'
-global.footer = 'RiychDwayne'
-global.ig = 'https://instagram.com/riychdwayne'
-global.email = 'riychh.20@gmail.com'
+global.owner = ['62882007331744','6288233481992','62882007331744']
+global.premium = ['62882007331744']
+global.ownername = 'Rafi Aji'
+global.botname = 'Rafi-Md'
+global.footer = 'Rafi'
+global.ig = 'https://instagram.com/Asal'
+global.email = 'Rafiaji20@gmail.com'
 global.region = 'Indonesia'
-global.sc = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
+global.sc = 'https://github.com/Rafiajiya/Chika-Md'
 global.myweb = 'https://api-riychdwayne.herokuap.com'
-global.packname = 'Hisoka Morrow'
+global.packname = 'Rafi Bot'
 global.author = 'WhatsApp Bot'
 global.sessionName = 'chika'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: '✓ Success',
-    admin: 'Fitur Khusus Admin Group!',
+    admin: 'Lu Bukan Admin Ye kontol',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
     owner: 'Fitur Khusus Owner Bot',
     group: 'Fitur Digunakan Hanya Untuk Group!',
